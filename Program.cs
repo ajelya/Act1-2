@@ -68,3 +68,5 @@ while (choice != 1 && choice != 2)
         Console.WriteLine("Invalid choice! Please try again:)\n");
     }
 }
+
+Console.Write("Have a good day ahead! Just visit me for some motivation!!! <3");
